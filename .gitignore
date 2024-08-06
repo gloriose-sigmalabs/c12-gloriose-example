@@ -1,0 +1,10 @@
+.env
+.DS_Store
+.vscode
+__pycache__
+.venv
+venv
+/data
+*.json
+*.csv
+*.parquet
